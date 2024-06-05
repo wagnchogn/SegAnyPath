@@ -1,0 +1,13 @@
+pytorch
+albumentations
+opencv-python
+tqdm
+matplotlib
+einops
+packaging
+ninja
+
+pip install flash-attn --no-build-isolation  （https://github.com/Dao-AILab/flash-attention）
+pip install timm==0.4.12
+
+
