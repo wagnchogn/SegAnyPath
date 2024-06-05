@@ -2,7 +2,7 @@
 
 Implementation for the paper: "SegAnyPath: A Foundation Model for Multi Resolution Stain-Style and Task Pathology Image Segmentation“
 
-![overall framework](img\overall framework.png)
+![framework](img\overall framework.png)
 
 ## Setup
 
