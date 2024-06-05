@@ -4,6 +4,8 @@ Implementation for the paper: "SegAnyPath: A Foundation Model for Multi Resoluti
 
 ![framework](img/overall.png)
 
+The datasets used in this study as follows: ![datasets](img/datasets.png)
+
 ## Setup
 
 ### 1. Environment
